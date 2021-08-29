@@ -3,19 +3,19 @@
 **Practices used:**
 
 
-** 1. A simple WebScraping from uipath **
+**1. A simple WebScraping from uipath**
 
 * Repeating structure with condition to wait for page load time and then information
 
-** 2. Condition with repeating struture **
+**2. Condition with repeating struture**
 
 * some conditions to validate information
 
-** 3. Modify text with select item ** 
+**3. Modify text with select item** 
 
 * Trin some space and corretion some words with wrong grammar 
 
-** 4. Dynamic Selector with anchorage**
+**4. Dynamic Selector with anchorage**
 
 * Used to select diferents box with dynamic tittle or id
 
