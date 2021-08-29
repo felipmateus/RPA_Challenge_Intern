@@ -1,6 +1,6 @@
 # desafio_RPA_EloGroup
 
-**Practices used:**
+**Challenge object:**
 
 * The goal of this challenge is to update status of logistic and other information 
 
