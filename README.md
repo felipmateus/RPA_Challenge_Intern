@@ -2,7 +2,7 @@
 
 **Practices used:**
 
-* The objet of this challenge is to update status of logistic and other information 
+* The goal of this challenge is to update status of logistic and other information 
 
 **Practices used:**
 
