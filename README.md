@@ -2,6 +2,10 @@
 
 **Practices used:**
 
+* The objet of this challenge is to update status of logistic and other information 
+
+**Practices used:**
+
 
 **1. A simple WebScraping from uipath**
 
