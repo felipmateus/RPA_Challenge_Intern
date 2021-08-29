@@ -15,7 +15,7 @@
 
 * some conditions to validate information
 
-**3. Modify text with select item** 
+**3. Modify text for a use right select item** 
 
 * Trin some space and corretion some words with wrong grammar 
 
